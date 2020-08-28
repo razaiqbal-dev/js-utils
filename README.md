@@ -1,0 +1,1 @@
+# Funtional utilities for javascript

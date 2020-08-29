@@ -4,7 +4,7 @@
 
 ```
 
-import { checkSimilarity } from "../index.js";
+import { checkSimilarity } from "r-js-utils";
 
 console.log(checkSimilarity("this is phrase", ["this is phrase 1","this is phrase 2]));
 

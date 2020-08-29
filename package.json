@@ -1,7 +1,7 @@
 {
-  "name": "js-utils",
+  "name": "r-js-utils",
   "version": "1.0.0",
-  "description": "JS utility functions",
+  "description": "Javascript utility functions",
   "main": "index.js",
   "directories": {
     "lib": "lib",

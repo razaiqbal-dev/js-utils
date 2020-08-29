@@ -4,13 +4,13 @@
 
 ```
 <!-- Ascending -->
-import { arraySort } from "../index.js";
+import { arraySort } from "r-js-utils";
 
 console.log(arraySort([1, 2, 5, 2, 5, 7]));
 
 
 <!-- Descending -->
-import { arraySort } from "../index.js";
+import { arraySort } from "r-js-utils";
 
 console.log(arraySort([1, 2, 5, 2, 5, 7],'descending'));
 

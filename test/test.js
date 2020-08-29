@@ -1,4 +1,4 @@
-import { checkSimilarity } from "../index.js";
+import { checkSimilarity } from "js-utils";
 import { arraySort } from "../index.js";
 
 console.log(checkSimilarity("bruh", ["bruh"]));

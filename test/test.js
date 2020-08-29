@@ -1,5 +1,5 @@
-const checkSimilarity = require("../index");
-const arraySort = require("../index");
+import { checkSimilarity } from "../index.js";
+import { arraySort } from "../index.js";
 
-console.log(checkSimilarity("test phrase", ["test phrase 1"]));
-console.log(arraySort([4, 5, 6, 2, 5, 7, 2, 0, 3]));
+console.log(checkSimilarity("bruh", ["bruh"]));
+console.log(arraySort([1, 2, 5, 2, 5, 7]));

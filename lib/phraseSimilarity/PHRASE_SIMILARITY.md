@@ -4,9 +4,10 @@
 
 ```
 
-const checkSimilarity = require("./index");
+import { checkSimilarity } from "../index.js";
 
-console.log(checkSimilarity("test phrase", ["test phrase 1"]));
+console.log(checkSimilarity("this is phrase", ["this is phrase 1","this is phrase 2]));
+
 
 ```
 

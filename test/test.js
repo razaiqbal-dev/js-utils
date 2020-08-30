@@ -1,5 +1,8 @@
-import { checkSimilarity } from "js-utils";
-import { arraySort } from "../index.js";
+// import { checkSimilarity } from "js-utils";
+import { array } from "../index.js";
 
-console.log(checkSimilarity("bruh", ["bruh"]));
-console.log(arraySort([1, 2, 5, 2, 5, 7]));
+// console.log(checkSimilarity("bruh", ["bruh"]));
+// console.log(arraySort([1, 2, 5, 2, 5, 7]));
+
+// console.log(array.sort([2, 4, 7, 2, 5, 8, 2]));
+console.log(array.reverse([2, 4, 7, 2, 5, 8, 2]));

@@ -6,4 +6,4 @@ import { array } from "../index.js";
 
 // console.log(array.sort([2, 4, 7, 2, 5, 8, 2]));
 // console.log(array.reverse([2, 4, 7, 2, 5, 8, 2]));
-console.log(array.splice([1, 2, 3, 4, 5], 0, [9, 8]));
+console.log(array.splice([1, 2, 3, 4, 5], 1, [9, 8], 4));

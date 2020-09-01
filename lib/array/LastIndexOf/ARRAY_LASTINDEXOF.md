@@ -1,4 +1,4 @@
-# This is a function to find index of an element in an array
+# This is a function to find last index of an element in an array
 
 # USAGE
 

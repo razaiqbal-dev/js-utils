@@ -9,3 +9,4 @@ import { array } from "../index.js";
 // console.log(array.splice([1, 2, 3, 4, 5], 1, 4, [9, 8]));
 // console.log(array.unique("fss"));
 // console.log(array.indexOf([1, 2, 3, 4], ));
+console.log(array.lastIndexOf([1, 2, 3, 4, 2, 3], 2));

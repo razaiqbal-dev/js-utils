@@ -13,4 +13,5 @@ import { array } from "../index.js";
 // console.log(array.concat([1, 2, 3, 4, 5], [2, 3, 4, 5], [9, 8]));
 // console.log(array.push([2], "error"));
 // console.log(array.pop([2, 2, 3, 4]));
-console.log(array.length([2, 2, 3, 4]));
+// console.log(array.length([2, 2, 3, 4]));
+console.log(array.find([2, 2, 3, 4], 5));
